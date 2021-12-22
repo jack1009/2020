@@ -1,0 +1,4 @@
+[1012/170927.358:ERROR:settings.cc(430)] Settings version is not 5
+[1012/171927.374:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\09f72be1-1a3a-49ef-9af6-7f5f35d2fb3c: 系統找不到指定的路徑。 (0x3)
+[1012/171927.376:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\28f41016-86af-4021-8c60-02df5fdd0671: 系統找不到指定的路徑。 (0x3)
+[1012/171927.376:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
