@@ -1,0 +1,5 @@
+D:\Lib\ClassLibraryTimer\bin\Debug\ClassLibraryTimer.dll
+D:\Lib\ClassLibraryTimer\bin\Debug\ClassLibraryTimer.pdb
+D:\Lib\ClassLibraryTimer\obj\Debug\ClassLibraryTimer.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryTimer\obj\Debug\ClassLibraryTimer.dll
+D:\Lib\ClassLibraryTimer\obj\Debug\ClassLibraryTimer.pdb

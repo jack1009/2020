@@ -1,0 +1,11 @@
+D:\Lib\ClassLibrarySafty\obj\Debug\ClassLibrarySafty.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibrarySafty\bin\Debug\ClassLibrarySafty.dll
+D:\Lib\ClassLibrarySafty\bin\Debug\ClassLibrarySafty.pdb
+D:\Lib\ClassLibrarySafty\bin\Debug\EasyModbus.dll
+D:\Lib\ClassLibrarySafty\bin\Debug\MachineLog.dll
+D:\Lib\ClassLibrarySafty\bin\Debug\MachineLog.pdb
+D:\Lib\ClassLibrarySafty\bin\Debug\EasyModbus.xml
+D:\Lib\ClassLibrarySafty\obj\Debug\ClassLibrarySafty.csproj.CopyComplete
+D:\Lib\ClassLibrarySafty\obj\Debug\ClassLibrarySafty.dll
+D:\Lib\ClassLibrarySafty\obj\Debug\ClassLibrarySafty.pdb
+D:\Lib\ClassLibrarySafty\obj\Debug\ClassLibrarySafty.csprojAssemblyReference.cache

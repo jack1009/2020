@@ -1,0 +1,5 @@
+D:\Lib\ClassLibraryTRIG\bin\Debug\ClassLibraryTRIG.dll
+D:\Lib\ClassLibraryTRIG\bin\Debug\ClassLibraryTRIG.pdb
+D:\Lib\ClassLibraryTRIG\obj\Debug\ClassLibraryTRIG.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryTRIG\obj\Debug\ClassLibraryTRIG.dll
+D:\Lib\ClassLibraryTRIG\obj\Debug\ClassLibraryTRIG.pdb

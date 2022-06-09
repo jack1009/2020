@@ -1,0 +1,11 @@
+D:\C#\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.csprojAssemblyReference.cache
+D:\C#\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryRobot\bin\Debug\ClassLibraryRobot.dll
+D:\Lib\ClassLibraryRobot\bin\Debug\ClassLibraryRobot.pdb
+D:\Lib\ClassLibraryRobot\bin\Debug\MachineLog.dll
+D:\Lib\ClassLibraryRobot\bin\Debug\MachineLog.pdb
+D:\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.csproj.CopyComplete
+D:\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.dll
+D:\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.pdb
+D:\Lib\ClassLibraryRobot\obj\Debug\ClassLibraryRobot.csprojAssemblyReference.cache

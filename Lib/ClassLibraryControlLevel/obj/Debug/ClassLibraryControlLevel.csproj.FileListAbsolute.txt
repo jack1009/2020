@@ -1,0 +1,6 @@
+D:\Lib\ClassLibraryControlLevel\bin\Debug\ClassLibraryControlLevel.dll
+D:\Lib\ClassLibraryControlLevel\bin\Debug\ClassLibraryControlLevel.pdb
+D:\Lib\ClassLibraryControlLevel\obj\Debug\ClassLibraryControlLevel.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryControlLevel\obj\Debug\ClassLibraryControlLevel.dll
+D:\Lib\ClassLibraryControlLevel\obj\Debug\ClassLibraryControlLevel.pdb
+D:\Lib\ClassLibraryControlLevel\obj\Debug\ClassLibraryControlLevel.csprojAssemblyReference.cache

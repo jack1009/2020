@@ -1,0 +1,9 @@
+D:\Lib\ClassLibraryBowlFeeder\bin\Debug\ClassLibraryBowlFeeder.dll
+D:\Lib\ClassLibraryBowlFeeder\bin\Debug\ClassLibraryBowlFeeder.pdb
+D:\Lib\ClassLibraryBowlFeeder\obj\Debug\ClassLibraryBowlFeeder.csprojAssemblyReference.cache
+D:\Lib\ClassLibraryBowlFeeder\obj\Debug\ClassLibraryBowlFeeder.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryBowlFeeder\obj\Debug\ClassLibraryBowlFeeder.dll
+D:\Lib\ClassLibraryBowlFeeder\obj\Debug\ClassLibraryBowlFeeder.pdb
+D:\Lib\ClassLibraryBowlFeeder\bin\Debug\ClassLibraryTimer.dll
+D:\Lib\ClassLibraryBowlFeeder\bin\Debug\ClassLibraryTimer.pdb
+D:\Lib\ClassLibraryBowlFeeder\obj\Debug\ClassLibraryBowlFeeder.csproj.CopyComplete

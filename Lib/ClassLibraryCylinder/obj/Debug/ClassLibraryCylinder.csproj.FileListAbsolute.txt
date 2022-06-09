@@ -1,0 +1,11 @@
+D:\Lib\ClassLibraryCylinder\bin\Debug\ClassLibraryCylinder.dll
+D:\Lib\ClassLibraryCylinder\bin\Debug\ClassLibraryCylinder.pdb
+D:\Lib\ClassLibraryCylinder\obj\Debug\ClassLibraryCylinder.csprojAssemblyReference.cache
+D:\Lib\ClassLibraryCylinder\obj\Debug\ClassLibraryCylinder.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryCylinder\obj\Debug\ClassLibraryCylinder.dll
+D:\Lib\ClassLibraryCylinder\obj\Debug\ClassLibraryCylinder.pdb
+D:\Lib\ClassLibraryCylinder\bin\Debug\ClassLibraryTimer.dll
+D:\Lib\ClassLibraryCylinder\bin\Debug\ClassLibraryTimer.pdb
+D:\Lib\ClassLibraryCylinder\obj\Debug\ClassLibraryCylinder.csproj.CopyComplete
+D:\Lib\ClassLibraryCylinder\bin\Debug\ClassLibraryTRIG.dll
+D:\Lib\ClassLibraryCylinder\bin\Debug\ClassLibraryTRIG.pdb

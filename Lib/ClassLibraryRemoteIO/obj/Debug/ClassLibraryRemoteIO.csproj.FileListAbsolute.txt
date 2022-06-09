@@ -1,0 +1,11 @@
+D:\Lib\ClassLibraryRemoteIO\bin\Debug\ClassLibraryRemoteIO.dll
+D:\Lib\ClassLibraryRemoteIO\bin\Debug\ClassLibraryRemoteIO.pdb
+D:\Lib\ClassLibraryRemoteIO\bin\Debug\EasyModbus.dll
+D:\Lib\ClassLibraryRemoteIO\bin\Debug\MachineLog.dll
+D:\Lib\ClassLibraryRemoteIO\bin\Debug\MachineLog.pdb
+D:\Lib\ClassLibraryRemoteIO\bin\Debug\EasyModbus.xml
+D:\Lib\ClassLibraryRemoteIO\obj\Debug\ClassLibraryRemoteIO.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryRemoteIO\obj\Debug\ClassLibraryRemoteIO.csproj.CopyComplete
+D:\Lib\ClassLibraryRemoteIO\obj\Debug\ClassLibraryRemoteIO.dll
+D:\Lib\ClassLibraryRemoteIO\obj\Debug\ClassLibraryRemoteIO.pdb
+D:\Lib\ClassLibraryRemoteIO\obj\Debug\ClassLibraryRemoteIO.csprojAssemblyReference.cache

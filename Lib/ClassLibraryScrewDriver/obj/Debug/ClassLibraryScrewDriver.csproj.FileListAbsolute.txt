@@ -1,0 +1,11 @@
+D:\C#\Lib\ClassLibraryScrewDriver\bin\Debug\ClassLibraryScrewDriver.dll
+D:\C#\Lib\ClassLibraryScrewDriver\bin\Debug\ClassLibraryScrewDriver.pdb
+D:\C#\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.csprojAssemblyReference.cache
+D:\C#\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.csproj.CoreCompileInputs.cache
+D:\C#\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.dll
+D:\C#\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.pdb
+D:\Lib\ClassLibraryScrewDriver\bin\Debug\ClassLibraryScrewDriver.dll
+D:\Lib\ClassLibraryScrewDriver\bin\Debug\ClassLibraryScrewDriver.pdb
+D:\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.dll
+D:\Lib\ClassLibraryScrewDriver\obj\Debug\ClassLibraryScrewDriver.pdb

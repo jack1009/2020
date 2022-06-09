@@ -1,0 +1,11 @@
+D:\Lib\ClassLibraryLinerFeeder\bin\Debug\ClassLibraryLinerFeeder.dll
+D:\Lib\ClassLibraryLinerFeeder\bin\Debug\ClassLibraryLinerFeeder.pdb
+D:\Lib\ClassLibraryLinerFeeder\obj\Debug\ClassLibraryLinerFeeder.csprojAssemblyReference.cache
+D:\Lib\ClassLibraryLinerFeeder\obj\Debug\ClassLibraryLinerFeeder.csproj.CoreCompileInputs.cache
+D:\Lib\ClassLibraryLinerFeeder\obj\Debug\ClassLibraryLinerFeeder.dll
+D:\Lib\ClassLibraryLinerFeeder\obj\Debug\ClassLibraryLinerFeeder.pdb
+D:\Lib\ClassLibraryLinerFeeder\bin\Debug\ClassLibraryTimer.dll
+D:\Lib\ClassLibraryLinerFeeder\bin\Debug\ClassLibraryTRIG.dll
+D:\Lib\ClassLibraryLinerFeeder\bin\Debug\ClassLibraryTimer.pdb
+D:\Lib\ClassLibraryLinerFeeder\bin\Debug\ClassLibraryTRIG.pdb
+D:\Lib\ClassLibraryLinerFeeder\obj\Debug\ClassLibraryLinerFeeder.csproj.CopyComplete
